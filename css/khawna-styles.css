@@ -185,7 +185,7 @@ h2 {
 
 #home h1 {
   font-family: 'Open Sans', sans-serif;
-  font-weight: 700;
+  font-weight: 500;
 }
 
 #home, #students, #teachers, #enterprise, #about {
@@ -243,8 +243,8 @@ h2 {
 #enterprise h1,
 #about h1 {
   font-family: 'Open Sans', sans-serif;
-  font-weight: 700;
-  font-size: 3em;
+  font-weight: 500;
+  font-size: 3.5em;
 }
 
 #students h3,
@@ -261,7 +261,7 @@ h2 {
 }
 
 #students h2, #students .col {
-  color: #3498db;
+  color: #ff8f2b;
   border-color: #69d2e7;
 }
 
