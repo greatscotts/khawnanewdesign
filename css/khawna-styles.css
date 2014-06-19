@@ -185,19 +185,22 @@ h2 {
 
 #home h1 {
   font-family: 'Open Sans', sans-serif;
-  font-weight: 500;
+  font-weight: 200;
 }
 
-#home, #students, #teachers, #enterprise, #about {
+#home, #students, #enterprise, #about {
   min-height: 810px;
 }
 
+
 #students {
   background-color: #fff;
+    min-height: 310px;
 }
 
 #teachers {
-  background-color: #c6d5cd;
+  background-color: #ff8f2b;
+    min-height: 10px;
 }
 
 #enterprise {
@@ -243,7 +246,7 @@ h2 {
 #enterprise h1,
 #about h1 {
   font-family: 'Open Sans', sans-serif;
-  font-weight: 500;
+  font-weight: 300;
   font-size: 3.5em;
 }
 
@@ -273,6 +276,7 @@ h2 {
 #enterprise h2, #enterprise .col {
   color: #fdf200;
   border-color: #fdf200;
+
 }
 
 #students .divider-horizontal, #students h1 {
@@ -281,7 +285,7 @@ h2 {
 }
 
 #teachers .divider-horizontal, #teachers h1 {
-  color: #707266;
+  color: #ffffff;
   border-color: #707266;
 }
 
