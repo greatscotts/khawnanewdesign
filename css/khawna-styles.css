@@ -185,6 +185,14 @@ padding-top:9px;
   background: url(../images/tempBg-1.jpg) top no-repeat;
 }
 
+#home2 {
+  color: #ffffff;
+  
+  
+  
+}
+
+
 #home h1 {
   font-family: 'Open Sans', sans-serif;
   font-weight: 200;
@@ -383,7 +391,7 @@ padding-top:9px;
 }
 
 #footer {
-  min-height: 40px;
+  height: 190px;
   background-color: #2c3e50;
 }
 
@@ -402,7 +410,7 @@ padding-top:9px;
 
 #footer p {
   color: #fff;
-  padding: 5px 25px;
+  margin-left:11px;
 }
 
 #footer .goTop, #footer .goTop a{
