@@ -307,6 +307,13 @@ figure {
 img {
   vertical-align: middle;
 }
+
+@media screen and (max-width: 368px) {
+    img.smallResolution{
+        min-height: 150px;
+    }
+
+}
 .img-responsive,
 .thumbnail > img,
 .thumbnail a > img,
