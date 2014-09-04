@@ -110,7 +110,7 @@ padding-top:9px;
 }
 
 #cd-top-nav ul {
-  padding-top: 29px;
+  padding-top: 50px;
 }
 
 #cd-top-nav li {
@@ -260,6 +260,13 @@ padding-top:9px;
 #teachers h1,
 #enterprise h1,
 #about h1 {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 300;
+  font-size: 3.5em;
+}
+
+
+#students2 h1 {
   font-family: 'Open Sans', sans-serif;
   font-weight: 300;
   font-size: 3.5em;
