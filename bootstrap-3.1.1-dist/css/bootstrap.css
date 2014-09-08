@@ -2220,8 +2220,8 @@ fieldset[disabled] .btn-info.active {
 .btn-warning.active,
 .open .dropdown-toggle.btn-warning {
   color: #fff;
-  background-color: #ed9c28;
-  border-color: #d58512;
+  background-color: #428bca;
+  border-color: #428bca;
 }
 .btn-warning:active,
 .btn-warning.active,
